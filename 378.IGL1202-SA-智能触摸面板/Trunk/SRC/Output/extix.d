@@ -1,0 +1,13 @@
+..\output\extix.o: ..\User\Driver\EXTIx\EXTIx.c
+..\output\extix.o: ..\Lib_code\SysHard\inc\sys.h
+..\output\extix.o: ..\Core\stm32l1xx.h
+..\output\extix.o: ..\Core\core_cm3.h
+..\output\extix.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\extix.o: ..\Core\core_cmInstr.h
+..\output\extix.o: ..\Core\core_cmFunc.h
+..\output\extix.o: ..\Core\system_stm32l1xx.h
+..\output\extix.o: ..\Lib_code\App\BF_type.h
+..\output\extix.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\extix.o: ..\Lib_code\SysHard\inc\gpio.h
+..\output\extix.o: ..\User\Driver\EXTIx\EXTIx.h
+..\output\extix.o: ..\User\Key\key.h
